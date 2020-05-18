@@ -2,13 +2,9 @@
 
 # Documentação
 
-============================
-
-#####Este é um boiletPlate usando o [Padrão de arquitetura 7-1](http://sass-guidelin.es/#architecture) e seguindo as [convenções do Sass](http://sass-guidelin.es).
+##### Este é um boiletPlate usando o [Padrão de arquitetura 7-1](http://sass-guidelin.es/#architecture) e seguindo as [convenções do Sass](http://sass-guidelin.es).
 
 ### O Padrão 7-1
-
-============================
 
 O padrão de arquitetura de pastas 7-1 para Sass pensando por Hugo Giraude basicamente tem arquivos parciais em 7 diretórios, e um arquivo no diretório raiz(normalmente nomeado main.scss), responsável por importar todos os outros arquivos parciais para serem compilados em um único arquivo CSS. 
 
